@@ -1,0 +1,53 @@
+﻿生成启动时间为 5/13/2019 5:27:14 PM。
+     1>项目“C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\AsynchronousGrabMFC.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Win32\Debug\AsynchronousGrabMFC.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Source /I..\.. /I..\..\Vimba2.1\VimbaImageTransform\Include /I..\..\Vimba2.1 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D _CRTDBG_MAPALLOC /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Win32\Debug\AsynchronousGrabMFC.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Source\stdafx.cpp
+         stdafx.cpp
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Source /I..\.. /I..\..\Vimba2.1\VimbaImageTransform\Include /I..\..\Vimba2.1 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D _CRTDBG_MAPALLOC /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Source\FrameObserver.cpp ..\..\Source\ApiController.cpp ..\..\Source\CameraObserver.cpp
+         CameraObserver.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         ApiController.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         FrameObserver.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         正在生成代码...
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Source /I..\.. /I..\..\Vimba2.1\VimbaImageTransform\Include /I..\..\Vimba2.1 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D _CRTDBG_MAPALLOC /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Source\FrameObserver2.cpp
+         FrameObserver2.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\Source /I..\.. /I..\..\Vimba2.1\VimbaImageTransform\Include /I..\..\Vimba2.1 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /D _CRTDBG_MAPALLOC /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Win32\Debug\AsynchronousGrabMFC.pch" /Fo"Win32\Debug\\" /Fd"Win32\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Source\AsynchronousGrabDlg.cpp ..\..\Source\AsynchronousGrab.cpp
+         AsynchronousGrab.cpp
+         AsynchronousGrabDlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\Win32\Debug\AsynchronousGrabMFC.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\Vimba2.1\VimbaImageTransform\Lib\Win32 /LIBPATH:..\..\Vimba2.1\VimbaCPP\Lib\Win32 VimbaCPP.lib VimbaImageTransform.lib /MANIFEST /ManifestFile:"Win32\Debug\AsynchronousGrabMFC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\Win32\Debug\AsynchronousGrabMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\Win32\Debug\AsynchronousGrabMFC.lib" /MACHINE:X86 Win32\Debug\AsynchronousGrab.res
+         Win32\Debug\AsynchronousGrabMFC.exe.embed.manifest.res
+         Win32\Debug\FrameObserver.obj
+         Win32\Debug\FrameObserver2.obj
+         Win32\Debug\stdafx.obj
+         Win32\Debug\AsynchronousGrabDlg.obj
+         Win32\Debug\ApiController.obj
+         Win32\Debug\AsynchronousGrab.obj
+         Win32\Debug\CameraObserver.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Win32\Debug\AsynchronousGrabMFC.exe.embed.manifest" /manifest Win32\Debug\AsynchronousGrabMFC.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         AsynchronousGrabMFC.vcxproj -> C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\Win32\Debug\AsynchronousGrabMFC.exe
+       FinalizeBuildStatus:
+         正在删除文件“Win32\Debug\AsynchronousGrabMFC.unsuccessfulbuild”。
+         正在对“Win32\Debug\AsynchronousGrabMFC.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\lxie\Desktop\DemoCode\C++\MFC_MultiCamera\Build\VS2010\AsynchronousGrabMFC.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.90
